@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "login": "Herman",
+      "email": "admin@vg-web.pro",
+      "password": "qqq",
+      "id": 4
+    },
+    {
+      "login": "Preq",
+      "email": "dsfsdf@fsfdf.com",
+      "password": "qqq",
+      "id": 6
+    },
+    {
+      "login": "Test ",
+      "email": "test@test.com",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "login": "Test2",
+      "email": "test@test.com",
+      "password": "123",
+      "id": 8
+    }
+  ],
+  "message": [
+    {
+      "activeChatID": 3,
+      "fromUser": "Preq",
+      "date": "14.04.2018, 22:56:29",
+      "msg": "cacacsas",
+      "id": 10
+    },
+    {
+      "activeChatID": 7,
+      "fromUser": "Test2",
+      "date": "15.04.2018, 13:24:22",
+      "msg": "Hello ",
+      "id": 11
+    }
+  ]
+}
